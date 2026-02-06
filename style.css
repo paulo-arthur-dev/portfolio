@@ -203,14 +203,14 @@ article h2 {
     color: var(--texto);
 }
 
-.instituicao {
+.titulacao {
     color: var(--destaque-inverso);
     font-size: 1.1em;
 }
 
 #projeto-container {
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
     gap: 20px;
 }
 
@@ -232,12 +232,22 @@ article h2 {
     cursor: pointer;
 }
 
+.projeto-info ul {
+    margin-left: 30px;
+}
+
+.tecnologias {
+    font-size: 2em;
+    margin-top: 15px;
+}
+
 .foto-projeto {
     width: 100%;
     aspect-ratio: 16/9;
     object-fit: cover;
     overflow: hidden;
     border-radius: 8px;
+    /* margin-left: 20px; */
 }
 
 footer {
