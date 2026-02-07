@@ -188,7 +188,6 @@ article h2 {
     border-radius: 8px;
     border-left: 5px solid var(--destaque-inverso);
     padding-left: 15px;
-    cursor: pointer;
     transition: .2s ease-in-out;
 }
 
@@ -212,6 +211,11 @@ article h2 {
     display: flex;
     flex-direction: column;
     gap: 20px;
+}
+
+#projeto-container a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .projeto {
