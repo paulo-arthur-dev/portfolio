@@ -3,15 +3,13 @@
 Repositório para meu **portfólio pessoal como Desenvolvedor Front-End**.  
 O objetivo do projeto é apresentar minhas habilidades técnicas, projetos e minha evolução na área de desenvolvimento web.
 
----
 
 ## Tecnologias utilizadas
 
 - **HTML5** — Estruturação semântica das páginas  
-- **CSS3** — Estilização, layout e responsividade  
+- **CSS3** — Estilização, layout, responsividade e tema claro/escuro  
 - **JavaScript** — Interatividade, manipulação do DOM e organização do código
 
----
 
 ## Objetivo do portfólio
 
