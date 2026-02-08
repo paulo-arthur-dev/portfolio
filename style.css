@@ -45,9 +45,14 @@ header {
 }
 
 header img {
-    width: 50px;
-    border-radius: 50%;
+    width: 60px;
+    border-radius: 5px;
     display: none;
+    transition: .2s ease-in-out;
+}
+
+header img:hover {
+    transform: scale(1.10);
 }
 
 #menu ul {
